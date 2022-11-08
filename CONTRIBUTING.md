@@ -1,28 +1,28 @@
-# How to Contribute
+# Como contribuir
 
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+Adoraríamos aceitar seus patches e contribuições para este projeto. Há
+apenas algumas pequenas diretrizes que você precisa seguir.
 
-## Contributor License Agreement
+## Contrato de Licença do Contribuidor
 
-Contributions to this project must be accompanied by a Contributor License
-Agreement. You (or your employer) retain the copyright to your contribution;
-this simply gives us permission to use and redistribute your contributions as
-part of the project. Head over to <https://cla.developers.google.com/> to see
-your current agreements on file or to sign a new one.
+Contribuições para este projeto devem ser acompanhadas de uma Licença de Contribuinte
+Acordo. Você (ou seu empregador) retém os direitos autorais de sua contribuição;
+isso simplesmente nos dá permissão para usar e redistribuir suas contribuições como
+parte do projeto. Acesse <https://cla.developers.google.com/> para ver
+seus contratos atuais em arquivo ou para assinar um novo.
 
-You generally only need to submit a CLA once, so if you've already submitted one
-(even if it was for a different project), you probably don't need to do it
-again.
+Geralmente, você só precisa enviar um CLA uma vez, portanto, se você já enviou um
+(mesmo que fosse para um projeto diferente), você provavelmente não precisa fazer isso
+novamente.
 
-## Code reviews
+## Revisões de código
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+Todos os envios, incluindo envios de membros do projeto, exigem revisão. Nós
+use solicitações de pull do GitHub para essa finalidade. Consultar
+[Ajuda do GitHub](https://help.github.com/articles/about-pull-requests/) para mais informações
+informações sobre o uso de solicitações pull.
 
-## Community Guidelines
+## Diretrizes da comunidade
 
-This project follows
-[Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+Este projeto segue
+[Diretrizes da comunidade de código aberto do Google](https://opensource.google.com/conduct/).
